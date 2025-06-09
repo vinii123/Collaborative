@@ -1,19 +1,19 @@
-## 🚀 Features
+## Features
 
-### 📝 Task Manager
+### Task Manager
 - Create, Read, Update, Delete (CRUD) Tasks
 - Filter tasks by **status** and **priority**
 - Responsive board layout with **To Do**, **In Progress**, and **Done** columns
 - Client-side validation using **React Hook Form** and **Zod**
 
-### 🍽️ Recipe Viewer
+### Recipe Viewer
 - Fetch recipes from [TheMealDB](https://www.themealdb.com/api.php)
 - Display meal name, category, and area in a table
 - Data fetched and cached via **Tanstack Query**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js (App Router)**
 - **TypeScript**
