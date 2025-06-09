@@ -1,0 +1,14 @@
+export const TO_DO = "To Do";
+export const IN_PROGESS = "In Progress";
+export const DONE = "Done";
+export const LOW = "Low";
+export const MEDIUM = "Medium";
+export const HIGH = "High";
+export const BTN_TEXT = "Add Task";
+export const ALL_PRIORITIES = "All Priorities";
+export const ALL_STATUSES = "All Statuses";
+export const TASK_PAGE_ROUTE = "/tasks";
+export const RECIPE_LIST = "Recipe List";
+export const TASK_MANAGR = "Task Manager";
+export const  TASK = "Task";
+export const FILTER_TEXT = "Filter";
